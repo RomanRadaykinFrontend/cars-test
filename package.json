@@ -1,0 +1,27 @@
+{
+  "name": "naiveui-fork-for-work",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "naive-ui": "^2.14.0",
+    "sass": "^1.49.9",
+    "vite-plugin-components": "0.11.2",
+    "vue": "^3.0.7",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0",
+    "vuex-class-component": "^2.3.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.7",
+    "typescript": "^4.2.3",
+    "vite": "^2.0.5",
+    "vite-plugin-style-import": "0.10.1"
+  },
+  "keywords": [],
+  "description": ""
+}
